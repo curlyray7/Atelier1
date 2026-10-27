@@ -1,3 +1,4 @@
-class Key : ICOllectable {
-    
+public record Key : ICollectable
+{
+    internal Key() { }
 }
